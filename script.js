@@ -3,7 +3,7 @@
 ================================ */
 
 const text = `
-Hey, VaMy 🎧
+Hey, VaMy ❤️
 Mong em hãy luôn giữ gìn sức khỏe, đi đường an toàn, về nhà cần thận và có những giấc ngủ ngon.
 Mong cuộc đời hãy đối xử nhẹ nhàng với em, mong những ước nguyện của em dù lớn hay nhỏ sẽ dần dần thành hiện thực.
 Nếu có những ngày không vui, xin em đừng buồn quá lâu, đừng quên ăn uống đầy đủ, đừng tắm khuya... 
